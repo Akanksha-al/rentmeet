@@ -1,0 +1,6 @@
+Add ability to compress and share project files with other users easily
+
+Adds "zip" package to the Nix environment to enable file compression functionality.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b3dcb188-197c-4deb-8285-711145af089d
